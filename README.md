@@ -4,8 +4,9 @@ React Native (Expo) student app, a mock Express API, and a GitHub Actions CI pip
 
 ## Setup
 ```bash
-git clone <your-repo-url> && cd ston-assignment-mayuri
-npm install
+   git clone https://github.com/MMTapkire31/Ston-Assignment-Mayuri.git
+   cd Ston-Assignment-Mayuri
+   npm install
 ```
 
 ## App
