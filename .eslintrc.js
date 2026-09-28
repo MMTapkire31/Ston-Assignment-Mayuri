@@ -1,0 +1,8 @@
+module.exports = {
+  root: true,
+  env: { es2021: true, node: true, jest: true },
+  parserOptions: { ecmaVersion: 2021, sourceType: 'module', ecmaFeatures: { jsx: true } },
+  extends: ['eslint:recommended', 'plugin:react/recommended', 'plugin:react-hooks/recommended'],
+  settings: { react: { version: 'detect' } },
+  rules: { 'react/prop-types': 'off', 'react/react-in-jsx-scope': 'off' },
+};

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "s1", "name": "Rahul Sharma", "rollNo": "21CS001", "password": "student123",
+    "branch": "CSE", "cgpa": 7.4, "year": "Final",
+    "applications": [
+      { "driveId": "d2", "status": "Shortlisted" },
+      { "driveId": "d3", "status": "Selected" },
+      { "driveId": "d4", "status": "Attended" }
+    ]
+  }
+]
