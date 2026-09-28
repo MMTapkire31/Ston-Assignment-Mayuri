@@ -2,7 +2,7 @@ export const MOCK_CREDENTIALS = { rollNo: '21CS001', password: 'student123' };
 
 export const student = {
   id: 's1',
-  name: 'Rahul Sharma',
+  name: 'Mayuri Tapkire',
   rollNo: '21CS001',
   branch: 'CSE',
   cgpa: 7.4,

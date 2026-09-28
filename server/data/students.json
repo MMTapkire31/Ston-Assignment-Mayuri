@@ -1,6 +1,6 @@
 [
   {
-    "id": "s1", "name": "Rahul Sharma", "rollNo": "21CS001", "password": "student123",
+    "id": "s1", "name": "Mayuri Tapkire", "rollNo": "21CS001", "password": "student123",
     "branch": "CSE", "cgpa": 7.4, "year": "Final",
     "applications": [
       { "driveId": "d2", "status": "Shortlisted" },
